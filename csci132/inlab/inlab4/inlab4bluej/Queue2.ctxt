@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pushValue
+comment0.target=void\ push(Patient)
+comment1.params=enqueueValue
+comment1.target=void\ enqueue(Patient)
+comment2.params=
+comment2.target=Patient\ dequeue()
+comment3.params=
+comment3.target=java.lang.Boolean\ isEmpty()
+comment4.params=
+comment4.target=java.lang.Boolean\ isFull()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ newPurchase()
+comment1.params=
+comment1.target=void\ allPurchases()
+comment2.params=name
+comment2.target=void\ deletePurchase(java.lang.String)
+comment3.params=
+comment3.target=SalesInfo[]\ toArray()
+comment4.params=myArr
+comment4.target=void\ printArray(SalesInfo[])
+numComments=5

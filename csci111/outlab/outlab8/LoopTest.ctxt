@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ personInfo()
+comment1.params=n
+comment1.target=void\ forTest(int)
+comment2.params=
+comment2.target=double\ whileTest()
+comment3.params=
+comment3.target=IntIntDouble\ doWhileTest()
+numComments=4

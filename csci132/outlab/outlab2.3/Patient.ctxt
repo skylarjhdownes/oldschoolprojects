@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=in_id\ in_priority
+comment0.target=Patient(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Patient\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=int\ getPriority()
+numComments=3

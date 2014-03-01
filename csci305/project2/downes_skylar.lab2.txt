@@ -1,0 +1,19 @@
+1.  There are two if statements in my main class that detect if the lastPlayBot was selected, and pass the opponents move to the instance of lastPlayBot, which then uses that move next turn.  I suppose I could probably have made the lastPlay variable a part of the base class and always passed it, especially since I ended up using the same technique for myBot.  It would have made the code cleaner looking, but probably slightly less efficient.  
+
+2.  MyBot randomly chooses between the two moves that would have won last turn.  I passed the opponents move to the myBot instance in the same way that I did with lastPlayBot.  I wrote an if statement for each opposing move and used a random number to choose between the two moves that would have won.
+
+3.  Everything is an object in Python.  Python binds types dynamically, allowing for polymorphism.  Python is dynamically typed; it's variables types are determined, and may vary, at runtime.  Python is strongly typed.  It detects type errors and yells at you.  Users may define types in Python by writing new class objects.  In fact, users can play with the currently build types in rather bizarre ways, since they too are objects.
+
+4.  I can always beat the ones that are not random, because I am able to predict their moves.  This includes myBot, because there is always a counter to both moves it can choose from.  The randomBot is, obviously, random.  I win about as many as I lose.
+
+5.  It looks to me like the success of any strategy is entirely dependent upon the opposing strategy.  There wouldn't really be any good way to counter a bot that just chooses randomly though.  I suspect that this strategy is optimal in a pure game environment.  Bring human players together though, and there are many more variables than such a model cann take into account.
+
+6.  The clean and easy to read syntax.  I appreciate how it is designed to keep your code readable.
+
+7.  It seems like the designers took several other languages, removed all of the extra syntactic stuff they possibly could, then later realized they needed similar stuff to make the language function, but instead of putting back in what they took out, they made up bunches of new syntax, thereby reinventing the wheel several times over.  Also, the documentation tends to be poorly written.  Also also, two underscores beside each other like so: "__" is an absolutely terrible thing to put in a piece of code that's going to be used liberally by novice programmers.  (__init__)  The double underscores have an amusing habit of looking like a single underscore to someone new to the language which, surprise surprise, keeps the init script from functioning, but doesn't give any feedback to the programmer.  In fact, the program compiles just fine.
+
+8.  The lab itself was quite enjoyable.  I had issues with Python though.  I find it easy to see from the lab how one might want to build their program using object oriented paradigms.  For instance, if I wanted to build a game with 100 or more moves, OO programming would make it relatively easy.
+
+9.  8-10 hours.
+
+10.  Probably, but I'm not looking forward to it.  Simple scripts for linux, maybe some web stuff.  I'd prefer to use Perl though.

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=in_name\ in_numStudents
+comment0.target=Course(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ enterValues()
+comment2.params=
+comment2.target=java.lang.String\ highQuiz()
+comment3.params=
+comment3.target=java.lang.String\ highGPA()
+comment4.params=searchName
+comment4.target=int\ quizByName(java.lang.String)
+comment5.params=searchName
+comment5.target=java.lang.Double\ gpaByName(java.lang.String)
+comment6.params=
+comment6.target=void\ printValues()
+numComments=7

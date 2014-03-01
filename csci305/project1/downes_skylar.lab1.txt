@@ -1,0 +1,57 @@
+1.world
+
+2.13315
+
+3.1147
+
+4.you
+
+5.1721
+
+6.love you are you are you are you are you are you are you are you are you are
+
+7.amor de la vida es el amor de la vida es el amor de la vida es el amor
+
+8.hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey
+
+9.little girl in the world is a little girl in the world is a little girl in the world
+
+10.potato head over the world is a little girl in the world is a little girl in the world
+flying high school days of the world is a little girl in the world is a little girl in
+wombat in the world is a little girl in the world is a little girl in the world
+you are you are you are you are you are you are you are you are you are you
+
+I keep getting "Little girl in the world".
+
+11.little girl in my heart is my heart is my heart is my heart is my heart is my
+12.Not exactly.  I do think there should be a song titled "Wombat in my heart" though.
+
+potato
+flying high school days are you are you are you are you are you are you are you are
+wombat in my heart is my heart is my heart is my heart is my heart is my heart
+you are you are you are you are you are you are you are you are you are you
+
+There are still other words that loop, although they do so less early.
+
+13.love you are you are you are you are you are you are you are you are you are
+
+14.Still the same title, so no.  We could remove "you" and "are" from the bigrams, 
+presumably that would force it to find different words.  A better general solution
+would likely be to introduce some form of randomization that would make it choose 
+less common words, either just occasionally, or when repetition is detected.
+15."potato" from earlier, also "gallant hussar".
+
+16.The functions for text processing are useful.  Having so many libraries is nice too.
+
+17.There are so many ways to do things that all of the online tutorials are completely 
+different and often incompatible.  Learning a new language is much harder when it's 
+difficult to find examples that match each other.  
+
+18.This lab was quite enjoyable.  I liked that there was a fairly concrete objective 
+which required us to learn a bunch of useful skills.  I wish there had been a bit more 
+clarity in the lab description.
+
+19. 10 - 12
+
+20. Perl will be a likely choice for me for any major text manipulation project in my future.
+Not so much for making complicated data structures though.

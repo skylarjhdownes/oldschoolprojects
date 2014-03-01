@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=in_name\ in_score
+comment0.target=Student(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment1.params=
+comment1.target=void\ status()
+comment1.text=\r\n\ Outputs\ whether\ the\ student\ is\ passint\ or\ failing\ the\ course\r\n\ based\ on\ whether\ their\ current\ score\ is\ at\ least\ 60\r\n\r\n
+numComments=2

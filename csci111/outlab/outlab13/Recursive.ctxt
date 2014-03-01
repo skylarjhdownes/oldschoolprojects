@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=myArr\ endIndex
+comment0.target=int\ minArrayRec(int[],\ int)
+comment1.params=myArr
+comment1.target=int\ minArray(int[])
+numComments=2

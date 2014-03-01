@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=in_int1\ in_int2\ in_int3
+comment0.target=ThreeInts(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ThreeInts\r\n
+comment1.params=
+comment1.target=int\ getint1()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment2.params=
+comment2.target=int\ getint2()
+comment3.params=
+comment3.target=int\ getint3()
+comment4.params=
+comment4.target=void\ outvals()
+numComments=5

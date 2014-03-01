@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=in_firstName\ in_lastName\ in_balance
+comment0.target=BankRecord(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BankRecord\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFirstName()
+comment1.text=\r\n\ outputs\ a\ name,\ the\ original\ balance\ of\ the\ account,\ and\ the\ final\ balance\ of\ the\ account\r\n
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment3.params=
+comment3.target=int\ getBalance()
+comment4.params=deposit
+comment4.target=void\ makeDeposit(int)
+comment5.params=
+comment5.target=java.lang.String\ fullName()
+comment6.params=withdrawal
+comment6.target=void\ makeWithdrawal(int)
+comment7.params=
+comment7.target=void\ printBalance()
+numComments=8

@@ -1,0 +1,11 @@
+1. A black and white command prompt.  It says [skylar.downes@cslab41 skylar.downes]$
+
+2. A list of directories popped up, colored blue.  The list included music, public, and videos.
+
+3. I went into the directory I wanted the new one in, then entered   mkdir cs112
+
+4. I entered cd cs112
+
+5. enter cd .. / enter cd skylar.downes / restart the command prompt
+
+6. There were roughly 1000 users logged in as of 4:30 pm on january 17th 2012.  I used the up arrow in konqueror, then multiplied the number of directories across and down.

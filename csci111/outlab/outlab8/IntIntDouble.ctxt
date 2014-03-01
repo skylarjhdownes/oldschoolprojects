@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=in_int1\ in_int2\ in_double1
+comment0.target=IntIntDouble(int,\ int,\ double)
+comment1.params=
+comment1.target=int\ getInt1()
+comment2.params=
+comment2.target=int\ getInt2()
+comment3.params=
+comment3.target=double\ getDouble1()
+numComments=4

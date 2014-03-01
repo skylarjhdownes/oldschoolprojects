@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=in_firstName\ in_lastName\ in_ballsBowled\ in_runs\ in_wickets
+comment0.target=Bowler(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bowler\r\n
+comment1.params=
+comment1.target=double\ average()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=double\ economy()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

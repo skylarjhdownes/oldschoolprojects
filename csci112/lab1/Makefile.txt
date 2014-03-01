@@ -1,0 +1,12 @@
+#   Makefile for helloworld.c 
+#	Skylar Downes, csci112, lab1
+#	01/24/12
+#
+
+helloworld: helloworld.o
+
+	gcc -o helloworld helloworld.o
+	
+helloworld.o: helloworld.c
+
+	gcc -c helloworld.c

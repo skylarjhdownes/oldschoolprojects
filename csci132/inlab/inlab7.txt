@@ -1,0 +1,44 @@
+inlab7  Skylar Downes	
+
+
+Code 1
+
+1.
+
+4 statements
+
+2.
+
+n4 statements
+
+Code 2
+
+(n2+1) + 4
+
+Code 3
+
+(3n / 2) + 6 
+
+Code 4
+
+n(2n + 3) + 6
+
+Code 5
+
+n(n(n + 2) + 3) + 7
+
+Code 6
+
+n((5 * 2) + 4) + 6
+
+Code 7
+
+n(2n + 4) + n(2n + 4) + 8
+
+Code 8
+
+6n + 4
+
+Code 9
+
+infinite loop

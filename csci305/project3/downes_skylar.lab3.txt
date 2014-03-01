@@ -1,0 +1,31 @@
+1.
+(2 4 5 2 4 6)
+2.
+It appears to increment each item in a list by 1
+3.
+Checks if the given list is empty (null)
+4.
+Returns an empty list
+5.
+Recursively adds 1 to each element of the given list.
+6.
+The function f is given (3 1 4 1 5 9), lst.  lst is not null, so it takes the first number,
+increments and prints it, then f is called on the rest of the list with cdr, (1 4 1 5 9).  This lst is not null so it takes the first number, increments and prints it, then f is called on the rest of the list with cdr, (4 1 5 9).  This lst is not null so it takes the first number, increments and prints it, then f is called on the rest of the list with cdr, (1 5 9).  This lst is not null so it takes the first number, increments and prints it, then f is called on the rest of the list with cdr, (5 9).  This lst is not null so it takes the first number, increments and prints it, then f is called on the rest of the list with cdr, (9).  This lst is not null so it takes the first number, increments and prints it, then f is called on the rest of the list with cdr, ().  This list is null, so it prints an empty list, ending the recursion.
+7.
+#f
+8.
+Tail.
+9.
+(green eggs and ham)
+10.
+(and macaroni)
+11.
+Scheme's structure is very simple, and doesn't require memorization of a bunch of random function things.
+12.
+However, those it does require are rather arcane, and it seems like everyone and their dog has a special version of Lisp that uses different functions and/or predefined variables.  
+13.
+It was interesting to learn a new, and very different, language.  The programming wasn't fascinating in and of itself, but I suspect trying to do anything complex would have been immensely frustrating, as the style of language is still quite foreign to me.  
+14. 
+sevenish.
+15.
+Doubt it.  Maybe for fun, or if I get into some Lisp-based code of someone else's.  I've heard Lisp is a common choice for AI programming, maybe if I get heavily into that.

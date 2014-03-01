@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=in_objectName\ in_unitPrice\ in_quantity
+comment0.target=SalesInfo(java.lang.String,\ double,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getObjectName()
+comment2.params=
+comment2.target=double\ getUnitPrice()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment4.params=
+comment4.target=double\ purchaseCost()
+numComments=5

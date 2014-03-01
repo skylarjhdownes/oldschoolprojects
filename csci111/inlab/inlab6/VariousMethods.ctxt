@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=age
+comment0.target=void\ dates1(int)
+comment1.params=age
+comment1.target=void\ dates2(int)
+comment2.params=var1\ var2\ var3\ var4\ var5\ var6
+comment2.target=int\ maxOf6(int,\ int,\ int,\ int,\ int,\ int)
+numComments=3

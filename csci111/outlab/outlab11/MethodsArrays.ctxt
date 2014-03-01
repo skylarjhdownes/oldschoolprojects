@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=myArr1D
+comment0.target=void\ print1DArr(int[])
+comment1.params=myArr2D
+comment1.target=void\ print2DArr1(int[][])
+comment2.params=myArr2D
+comment2.target=void\ print2DArr2(int[][])
+comment3.params=myArr2D\ rowNum
+comment3.target=int[]\ getRow(int[][],\ int)
+comment4.params=myArr2D\ colNum
+comment4.target=int[]\ getColumn(int[][],\ int)
+comment5.params=myArr2D
+comment5.target=boolean\ isRect(int[][])
+comment6.params=arr1\ arr2
+comment6.target=int\ dotProduct(int[],\ int[])
+comment7.params=matA\ matB
+comment7.target=int[][]\ matrixMult(int[][],\ int[][])
+numComments=8

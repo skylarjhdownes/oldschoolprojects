@@ -1,0 +1,139 @@
+1.
+
+1 ?- father(X, 'Queen Elizabeth II').
+X = 'King George VI' 
+false.
+
+2.
+
+2 ?- grandmother(X, 'Queen Elizabeth II').
+X = 'Queen Mary' ;
+false.
+
+3.
+
+3 ?- grandfather(X, 'Queen Elizabeth II').
+X = 'King George V' .
+
+4.
+
+4 ?- grandparent(X, 'Queen Elizabeth II').
+X = 'King George V' ;
+X = 'Queen Mary' ;
+false.
+
+5.
+
+5 ?-  grandparent('Queen Elizabeth II', X).
+X = 'Prince William' ;
+X = 'Prince Henry' ;
+false.
+
+6.
+
+6 ?- sibling(X, 'Queen Elizabeth II').
+X = 'Princess Margaret' ;
+false.
+
+7.
+
+7 ?- son(X, 'Queen Elizabeth II').
+X = 'Prince Charles' ;
+X = 'Prince Andrew' ;
+X = 'Prince Edward'.
+
+8.
+
+8 ?- daughter(X, 'Queen Elizabeth II').
+X = 'Princess Anne' ;
+false.
+
+9.
+
+9 ?- aunt(X, 'Lady Diana Spencer').
+false.
+
+10.
+
+10 ?- spouse(X, 'Prince William').
+false.
+
+11.
+
+11 ?- ancestor(X, 'Prince Henry').
+X = 'Prince Charles' ;
+X = 'Lady Diana Spencer' ;
+X = 'Prince Albert' ;
+X = 'Queen Victoria' ;
+X = 'King Edward VII' ;
+X = 'Princess Alexandra of Denmark' ;
+X = 'King George V' ;
+X = 'Queen Mary' ;
+X = 'King George VI' ;
+X = 'Lady Elizabeth Bowes-Lyon' ;
+X = 'Queen Elizabeth II' ;
+X = 'Prince Philip' ;
+false.
+
+12.
+
+12 ?- descendant('Queen Victoria', X).
+false.
+
+13.
+
+13 ?- older( 'Prince Henry','Prince William').
+false.
+
+14.
+
+14 ?- older(X, 'Queen Elizabeth II').
+X = 'Queen Victoria' ;
+X = 'Princess Alexandra of Denmark' ;
+X = 'Queen Mary' ;
+X = 'Mrs Simpson' ;
+X = 'Lady Elizabeth Bowes-Lyon' ;
+X = 'Prince Albert' ;
+X = 'King Edward VII' ;
+X = 'King George V' ;
+X = 'King Edward VIII' ;
+X = 'King George VI' ;
+X = 'Prince Philip' ;
+false.
+
+15.
+
+15 ?- regentwhenborn(X,'Queen Elizabeth II').
+X = 'King George V' 
+
+16.
+
+For the most part, it's pretty easy to understand.
+
+17.
+
+I keep wanting to nest functions, but it doesn't let you do that.  At least, not the way I want to.
+
+18.
+
+Prolog is interesting.  Using a dataset with real applications was cool.  The explanations under "More Rules" for the rules you wanted us to write were a bit vague.
+
+19.
+
+4-5
+
+20.
+
+Not much, but it was a very interesting look at a different way of programming.
+
+EC1.
+
+false.
+
+EC2.
+
+false.
+
+EC3.
+
+The trace is extending past the point where the IDE saves it.  I tried hitting enter once, then using the skip command to get through, but the IDE still didn't keep enough.
